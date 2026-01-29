@@ -717,6 +717,7 @@
 * [OnlineOCR](https://onlineocr.org/) - Online OCR
 * [NewOCR](https://www.newocr.com/) - Online OCR
 * [OnlineOCR](https://www.onlineocr.net/) - Online OCR
+* [FreeOcrTool](https://www.freeocrai.com/) - Online OCR
 
 ***
 
